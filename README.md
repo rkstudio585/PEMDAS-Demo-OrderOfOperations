@@ -10,7 +10,7 @@ In arithmetic, the **order of operations** determines the sequence in which calc
 In this project, we analyze two expressions:
 1. **Before:** `(5 + 5) + 5 + (5 + (-5)) - 5 × 2`
 
-   - ![before](before.jpg)
+   - ![before](IMG_20241101_093246.jpg)
 3. **After:** `(5 + 5) + 5 + (5 + (-5)) - 5`
 
    - ![after](after.jpg)
