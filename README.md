@@ -13,7 +13,7 @@ In this project, we analyze two expressions:
    - ![before](IMG_20241101_093246.jpg)
 3. **After:** `(5 + 5) + 5 + (5 + (-5)) - 5`
 
-   - ![after](after.jpg)
+   - ![after](IMG_20241101_093211.jpg)
 
 By examining these two expressions, we can see how removing a single multiplication operation changes the result.
 
